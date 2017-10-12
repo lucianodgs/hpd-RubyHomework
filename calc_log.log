@@ -1,0 +1,16 @@
+# Logfile created on 2017-10-08 20:21:23 -0300 by logger.rb/41954
+E, [2017-10-08T20:28:41.825516 #15119] ERROR -- : erro ao realizar calculo. tentenovamente
+E, [2017-10-08T20:28:47.153832 #15126] ERROR -- : erro ao realizar calculo. tentenovamente
+E, [2017-10-08T20:28:50.060491 #15128] ERROR -- : erro ao realizar calculo. tentenovamente
+I, [2017-10-08T21:07:08.230886 #16437]  INFO -- : executado o metodo adicao  e 
+I, [2017-10-08T21:07:08.232130 #16437]  INFO -- : erro ao realizar calculo. tentenovamente
+E, [2017-10-08T21:07:08.233169 #16437] ERROR -- : ["/home/admin/Ruby/hpd/homework01/calc_ruby.rb:42:in `/'", "/home/admin/Ruby/hpd/homework01/calc_ruby.rb:42:in `divisao'", "homework-cli.rb:7:in `<main>'"]
+I, [2017-10-08T21:07:08.233569 #16437]  INFO -- : erro ao realizar calculo. tentenovamente
+I, [2017-10-08T21:07:18.924735 #16440]  INFO -- : executado o metodo adicao 2 e 4
+I, [2017-10-08T21:07:18.928875 #16440]  INFO -- : erro ao realizar calculo. tentenovamente
+I, [2017-10-08T21:07:18.929262 #16440]  INFO -- : erro ao realizar calculo. tentenovamente
+I, [2017-10-08T21:07:18.929382 #16440]  INFO -- : erro ao realizar calculo. tentenovamente
+I, [2017-10-08T21:11:28.440995 #16555]  INFO -- : executado o metodo adicao 2 e 4
+I, [2017-10-08T21:11:28.441959 #16555]  INFO -- : executado o metodo multiplicacao 2 e 4
+I, [2017-10-08T21:11:28.442175 #16555]  INFO -- : executado o metodo divisao 2 e 4
+I, [2017-10-08T21:11:28.442301 #16555]  INFO -- : executado o metodo subritracao 2 e 4
